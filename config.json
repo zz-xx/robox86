@@ -1,0 +1,6 @@
+{
+    "discord_token": "your discord bot token",
+    "genius_headers": "your genius headers",
+    "prefix": ".x",
+    "description": "A simple modular Discord bot written in Python"
+}
