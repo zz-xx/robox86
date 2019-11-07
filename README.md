@@ -7,5 +7,5 @@ Most of features should work as intended unless some front end code changes on s
 
 ## Requires:
 * Python 3.6+
-* (discordpy)[https://github.com/rapptz/discord.py]
+* [discordpy](https://github.com/rapptz/discord.py)
 * and lot of Python modules
